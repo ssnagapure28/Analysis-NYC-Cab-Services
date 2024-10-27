@@ -1,0 +1,9 @@
+Due to .pkl files of huge size, the datasets could not be uploaded. The datasets can be downloaded from: 
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page - for parquet files
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page -  For hire vehicle datasets (parquet files)
+
+https://catalog.data.gov/dataset/?_metadata_type_limit=0&tags=__&q=Time+Zones&res_format=RDF - for CSV files
+
+https://www.nyc.gov/site/tlc/about/fhv-trip-record-data.page -  all related trip data files
