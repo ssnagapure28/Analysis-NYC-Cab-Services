@@ -45,7 +45,7 @@ Summarize the main insights from the project, highlighting how these can aid tax
 - **GeoPandas**: Extends Pandas for geospatial data analysis 
 - **Matplotlib**: For creating static, animated, and interactive visualizations in Python 
 - **Seaborn**: For statistical data visualization built on Matplotlib 
-- **Contextily**: Adds basemap tiles to geospatial plots 
+- **Contextily**: Adds basemap tiles to geospatial plots
 - **Openpyxl**: To work with Excel files 
 - **OS**: Used for file path management and interacting with the system.
 - **Warnings**: To handle warning messages and manage clean execution.
